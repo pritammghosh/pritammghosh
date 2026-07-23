@@ -1,16 +1,65 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm RAM</h1>
+<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+<p align='center' >
+I'm a Developer who specializes in building dynamic and responsive web applications that deliver seamless user experiences and scalable solutions. I'm passionate about creating user-focused digital products with clean architecture, performance optimization, and modern UI/UX design.
+I work primarily with <strong> JavaScript, MERN Stack,NextJs and TailwindCSS/Shadcn </strong> building everything from intuitive front-end interfaces to robust back-end systems.
+</p>
 
-<!--
-**pritammghosh/pritammghosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---  
+ ✉️ **Email:** [niteshcse3333@gmail.com](mailto:niteshcse3333@gmail.com)  
+ 🌐 **Web Portfolio:** [https://www.codemonitor.online/](https://www.codemonitor.online/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" style="border: 2px solid #fff; border-radius: 10px; margin: 5px;" onerror="this.src='https://via.placeholder.com/40/FFFFFF/000000?text=HTML5';" />
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" style="border: 2px solid #fff; border-radius: 10px; margin: 5px;" onerror="this.src='https://via.placeholder.com/40/FFFFFF/000000?text=CSS3';" />
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" style="border: 2px solid #fff; border-radius: 10px; margin: 5px;" onerror="this.src='https://via.placeholder.com/40/FFFFFF/000000?text=JS';" />
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" style="border: 2px solid #fff; border-radius: 10px; margin: 5px;" onerror="this.src='https://via.placeholder.com/40/FFFFFF/000000?text=React';" />
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" style="border: 2px solid #fff; border-radius: 10px; margin: 5px;" onerror="this.src='https://via.placeholder.com/40/FFFFFF/000000?text=Redux';" />
+  
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" style="border: 2px solid #fff; border-radius: 10px; margin: 5px;" onerror="this.src='https://via.placeholder.com/40/FFFFFF/000000?text=Next.js';" />
+  
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" style="border: 2px solid #fff; border-radius: 10px; margin: 5px;" onerror="this.src='https://via.placeholder.com/40/FFFFFF/000000?text=Tailwind';" />
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" style="border: 2px solid #fff; border-radius: 10px; margin: 5px;" onerror="this.src='https://via.placeholder.com/40/FFFFFF/000000?text=Bootstrap';" />
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" style="border: 2px solid #fff; border-radius: 10px; margin: 5px;" onerror="this.src='https://via.placeholder.com/40/FFFFFF/000000?text=Node.js';" />
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" style="border: 2px solid #fff; border-radius: 10px; margin: 5px;" onerror="this.src='https://via.placeholder.com/40/FFFFFF/000000?text=Express';" />
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" style="border: 2px solid #fff; border-radius: 10px; margin: 5px;" onerror="this.src='https://via.placeholder.com/40/FFFFFF/000000?text=MongoDB';" />
+  
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" style="border: 2px solid #fff; border-radius: 10px; margin: 5px;" onerror="this.src='https://via.placeholder.com/40/FFFFFF/000000?text=Git';" />
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" style="border: 2px solid #fff; border-radius: 10px; margin: 5px;" onerror="this.src='https://via.placeholder.com/40/FFFFFF/000000?text=Linux';" />
+  
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" style="border: 2px solid #fff; border-radius: 10px; margin: 5px;" onerror="this.src='https://via.placeholder.com/40/FFFFFF/000000?text=Postman';" />
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" style="border: 2px solid #fff; border-radius: 10px; margin: 5px;" onerror="this.src='https://via.placeholder.com/40/FFFFFF/000000?text=C';" />
+</p>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codemonitor-lab&show_icons=true&locale=en&layout=compact&theme=dark&text_color=ffffff&title_color=ffffff&icon_color=ffffff" alt="Top Languages" width="300" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=codemonitor-lab&show_icons=true&locale=en&theme=dark&text_color=ffffff&title_color=ffffff&icon_color=ffffff" alt="GitHub Stats" width="300" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=codemonitor-lab&theme=dark&text_color=ffffff&title_color=ffffff&icon_color=ffffff" alt="GitHub Streak" width="300" />
+    </td>
+  </tr>
+</table>
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ram-3bb99a297" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />
+  </a>
+</p>
