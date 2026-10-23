@@ -13,7 +13,7 @@
 <a href="https://devarthastudio.com">
   <img src="https://img.shields.io/badge/🚀_Explore_Devartha_Studio-Visit_Website-06b6d4?style=for-the-badge" alt="Visit Devartha Studio"/>
 </a>
-<a href="https://github.com/codemonitor-lab?tab=repositories">
+<a href="https://github.com/pritammghosh?tab=repositories">
   <img src="https://img.shields.io/badge/💻_My_Projects-Explore_Repos-312e81?style=for-the-badge" alt="Explore GitHub repositories"/>
 </a>
 
@@ -28,7 +28,7 @@
 ```python
 class PritamGhosh:
     def __init__(self):
-        self.role = "Full-Stack Developer"
+        self.role = "DATA ANALYTICS AND FRONTEND DEV"
         self.focus = ["AI Automation", "Data Analytics", "Software Products"]
         self.company = "Devartha Studio"
         self.mission = "Make technology accessible to every business"
