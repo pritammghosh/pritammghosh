@@ -1,81 +1,72 @@
-<!-- ═══════════════ HERO ═══════════════ -->
-
 <div align="center">
+  <img src="assets/hero.svg" width="100%" alt="Pritam Ghosh — Frontend Developer and Data Analyst"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:312e81,100:06b6d4&height=200&section=header&text=PRITAM%20GHOSH&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Building%20Ideas%20Into%20Reality&descSize=16&descAlignY=58" width="100%" alt="Pritam Ghosh — developer profile banner"/>
+  <br/><br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%92%BB;AI+Automation+Builder+%F0%9F%A4%96;Data+Analytics+Enthusiast+%F0%9F%93%8A;Founder+%40+Devartha+Studio+%E2%9C%A8;Turning+Coffee+%E2%98%95+Into+Code" alt="Animated introduction"/>
-</a>
+  <a href="https://devarthastudio.com"><img src="https://img.shields.io/badge/Devartha_Studio-Visit_Website-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Devartha Studio"/></a>
+  <a href="https://github.com/pritammghosh?tab=repositories"><img src="https://img.shields.io/badge/My_Projects-Explore_Repos-312e81?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
+  <a href="https://www.linkedin.com/in/pritam-ghosh-898046308/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
-<br/>
+  <br/><br/>
 
-<a href="https://devarthastudio.com">
-  <img src="https://img.shields.io/badge/🚀_Explore_Devartha_Studio-Visit_Website-06b6d4?style=for-the-badge" alt="Visit Devartha Studio"/>
-</a>
-<a href="https://github.com/pritammghosh?tab=repositories">
-  <img src="https://img.shields.io/badge/💻_My_Projects-Explore_Repos-312e81?style=for-the-badge" alt="Explore GitHub repositories"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=codemonitor-lab&style=flat-square&color=06b6d4&label=PROFILE+VISITORS" alt="Profile visitors"/>
-
+  <img src="https://img.shields.io/github/followers/pritammghosh?style=flat-square&logo=github&color=312e81&label=Followers" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Open_to-Freelance_%C2%B7_Internships_%C2%B7_Collabs-22c55e?style=flat-square" alt="Open to work"/>
+  <img src="https://img.shields.io/badge/Based_in-Assam%2C_India-06b6d4?style=flat-square" alt="Location"/>
+  <img src="assets/divider.svg" width="100%" alt=""/>
 </div>
-
----
 
 ## `whoami` 👨‍💻
 
 ```python
 class PritamGhosh:
     def __init__(self):
-        self.role = "DATA ANALYTICS AND FRONTEND DEV"
-        self.focus = ["AI Automation", "Data Analytics", "Software Products"]
+        self.role = "FRONTEND DEVELOPER & DATA ANALYST"
+        self.main_fields = ["Frontend Development", "Data Analytics"]
+        self.also = ["AI Automation", "Backend Basics"]
         self.company = "Devartha Studio"
         self.mission = "Make technology accessible to every business"
-        self.currently_building = [
-            "Business management systems",
-            "AI-powered workflows",
-            "Data-driven applications"
-        ]
+        self.open_to = ["Freelance", "Internships", "Collaboration"]
 
     def philosophy(self):
         return "Build useful things. Automate the boring stuff."
 ```
 
-I'm a developer and the founder of **[Devartha Studio](https://devarthastudio.com)** — a design-led technology studio focused on helping businesses turn ideas into practical digital solutions.
+I'm a developer and the founder of [**Devartha Studio**](https://devarthastudio.com/), a design-led technology studio that helps businesses turn ideas into practical digital solutions.
 
-I enjoy working across the stack: designing interfaces, building backend systems, managing databases, exploring AI automation, and extracting insights from data.
+My two main fields are **frontend development** and **data analytics**: I build clean, fast interfaces, and I turn raw data into dashboards and insights people can actually use.
 
-- 🧠 **Mindset:** Learn deeply, build practically, iterate continuously.
-- ⚡ **Interests:** AI agents, automation, system design, analytics, and product engineering.
-- 🛠️ **Building:** Real-world applications that solve operational problems.
-- 🌱 **Learning:** Advanced analytics, statistics, spatial data, and AI engineering.
-- 🎯 **Mission:** Make technology easier to adopt for non-technical businesses.
+<div align="center">
+  <img src="assets/focus.svg" width="100%" alt="Main fields: Frontend Development (React, Next.js, Tailwind, TypeScript) and Data Analytics (Python, Pandas, Power BI, Excel)"/>
+</div>
 
----
+- 🌱 **Learning:** Advanced analytics, statistics, spatial data and AI engineering
+- 🤖 **Exploring:** AI agents and workflow automation
+- 🎯 **Mission:** Make technology easier to adopt for non-technical businesses
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
 ## ⚡ Tech Arsenal
 
 <div align="center">
 
-**LANGUAGES**
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css" alt="Python, JavaScript, TypeScript, HTML and CSS"/>
-
 **FRONTEND & UI**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,redux" alt="React, Next.js, Tailwind CSS, Vite and Redux"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,redux,html,css" alt="React, Next.js, Tailwind CSS, Vite, Redux, HTML and CSS"/>
 
-**BACKEND & DATABASES**
+**LANGUAGES**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,supabase,prisma" alt="Node.js, Express, PostgreSQL, MongoDB, Supabase and Prisma"/>
+<img src="https://skillicons.dev/icons?i=js,ts,python" alt="JavaScript, TypeScript and Python"/>
 
-**DATA & VISUALIZATION**
+**DATA ANALYTICS & VISUALIZATION**
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
+
+**BACKEND & DATABASES**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,supabase,prisma" alt="Node.js, Express, PostgreSQL, MongoDB, Supabase and Prisma"/>
 
 **TOOLS & WORKFLOW**
 
@@ -83,7 +74,7 @@ I enjoy working across the stack: designing interfaces, building backend systems
 
 </div>
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
 ## 🚀 Things I've Built
 
@@ -99,7 +90,9 @@ Inventory management designed for gold-related businesses.
 - Organize product records
 - Simplify business operations
 
-`React` `TypeScript` `Supabase`
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
 
 </td>
 <td width="50%" valign="top">
@@ -112,7 +105,9 @@ A business tool combining point-of-sale operations with inventory tracking.
 - Inventory management
 - Invoice generation
 
-`React` `JavaScript` `Database`
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Database-312e81?style=flat-square" alt="Database"/>
 
 </td>
 </tr>
@@ -127,9 +122,27 @@ An educational management platform for day-to-day school operations.
 - Library and study materials
 - Exam results management
 
-`MERN` `PostgreSQL` `Prisma`
+<img src="https://img.shields.io/badge/MERN-06b6d4?style=flat-square" alt="MERN"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
 
 </td>
+<td width="50%" valign="top">
+
+### 🖥️ Window OS
+
+An experimental web-based operating system that reimagines websites as system-level interfaces, focused on interaction, state and restraint.
+
+- Desktop-style UI in the browser
+- Built around interaction design
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Frontend-818cf8?style=flat-square" alt="Frontend"/>
+&nbsp;[**View repo →**](https://github.com/pritammghosh/Window-Operating-System)
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🐦 Panchi Encyclopedia
@@ -140,7 +153,22 @@ A community-focused platform concept for bird photographers.
 - Bird discovery and documentation
 - Nature-focused digital experiences
 
-`Web Development` `Community`
+<img src="https://img.shields.io/badge/Web_Development-312e81?style=flat-square" alt="Web Development"/>
+<img src="https://img.shields.io/badge/Community-06b6d4?style=flat-square" alt="Community"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 Analytics Dashboards
+
+Data projects are on the way: business dashboards and data-driven reports.
+
+- Cleaning and analysis with Python
+- Interactive reports in Power BI & Excel
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Coming_soon-22c55e?style=flat-square" alt="Coming soon"/>
 
 </td>
 </tr>
@@ -148,59 +176,29 @@ A community-focused platform concept for bird photographers.
 
 <div align="center">
 
-<a href="https://github.com/codemonitor-lab?tab=repositories">
-  <img src="https://img.shields.io/badge/Discover_More-18181b?style=for-the-badge&logo=github&logoColor=white" alt="Discover more projects"/>
+<a href="https://github.com/pritammghosh?tab=repositories">
+  <img src="https://img.shields.io/badge/Discover_More_Projects-18181b?style=for-the-badge&logo=github&logoColor=white" alt="Discover more projects"/>
 </a>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 </div>
-
----
-
-## 📊 GitHub Command Center
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=codemonitor-lab&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemonitor-lab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
-
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=codemonitor-lab&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-## 🐍 Watch My Contributions Come Alive
-
-<div align="center">
-
-<!-- Enable the GitHub Actions workflow to generate this animation. -->
-<img src="https://raw.githubusercontent.com/codemonitor-lab/codemonitor-lab/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" width="100%"/>
-
-</div>
-
----
 
 ## 🤝 Let's Build Something
 
-Have an interesting idea, a business problem worth solving, or an automation that needs building? Let's connect.
+Need a clean frontend, a dashboard, or someone to make sense of your data? I'm open to freelance work, internships and collaborations.
 
 <div align="center">
 
-<a href="https://devarthastudio.com">
-  <img src="https://img.shields.io/badge/Website-Devartha_Studio-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
-</a>
-<a href="mailto:pritammmghosh@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/codemonitor-lab">
-  <img src="https://img.shields.io/badge/GitHub-Follow_My_Work-18181b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+<a href="https://devarthastudio.com"><img src="https://img.shields.io/badge/Website-Devartha_Studio-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+<a href="mailto:pritammmghosh@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/pritam-ghosh-898046308/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/devarthastudio/"><img src="https://img.shields.io/badge/Instagram-devarthastudio-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
 <br/><br/>
 
 *"The best technology isn't the most complicated. It's the technology that solves the right problem."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:312e81,100:09090b&height=100&section=footer" width="100%" alt="Decorative footer"/>
+<br/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 </div>
